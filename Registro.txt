@@ -1,0 +1,4 @@
+2016-2127	2016-2127	Estudiante	Robert	2016-2127	Masculino	Software
+2017-2030	2017-2030	Estudiante	Arturo	2017-2030		Masculino		Software
+ae0639	ae0639	Estudiante	Yaneris	ae0639		Femenino		Software
+robert	12345	Administrador	robert		profesor	masculino

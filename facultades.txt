@@ -1,0 +1,11 @@
+			************** FACULTADES *************
+	
+	
+
+	1. ARTES
+	2. CONSTRUCCION
+	3. ELECTROMECANICA
+	4. INDUSTRIAL
+	5. INFORMATICA
+	6. SAULD
+	7. TURISMO
